@@ -240,8 +240,8 @@
     },
     "uE": {
       "name": {
-        "en": "кастомный сервер улитки",
-        "ru": "ylitka's custom server"
+        "en": "training server",
+        "ru": "тренировочный сервер"
       },
       "image": {
         "en": "https://raw.githubusercontent.com/ylitkayg/durak_server/main/icon.png",
