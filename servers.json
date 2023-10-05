@@ -254,6 +254,23 @@
       "rustore": 10783,
       "web_url": "wss://st2.rstgames.com/wsD",
       "weight": 1.0
+    },
+    "uF": {
+      "name": {
+        "en": "localhost:1234",
+        "ru": "localhost:1234"
+      },
+      "image": {
+        "en": "https://raw.githubusercontent.com/ylitkayg/durak_server/main/icon.png",
+        "ru": "https://raw.githubusercontent.com/ylitkayg/durak_server/main/icon.png"
+      },
+      "host": "95.217.104.58",
+      "port": 10783,
+      "android": 10783,
+      "huawei": 10783,
+      "rustore": 10783,
+      "web_url": "wss://st2.rstgames.com/wsD",
+      "weight": 1.0
     }
   },
   "web_auth":"https://durak.rstgames.com/auth",
