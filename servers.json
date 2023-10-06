@@ -240,8 +240,8 @@
     },
     "uE": {
       "name": {
-        "en": "training server",
-        "ru": "тренировочный сервер"
+        "en": "Snail Server",
+        "ru": "Сервер Улитки :)"
       },
       "image": {
         "en": "https://raw.githubusercontent.com/ylitkayg/durak_server/main/icon.png",
