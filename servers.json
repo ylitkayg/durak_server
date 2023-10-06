@@ -253,7 +253,7 @@
       "huawei": 10783,
       "rustore": 10783,
       "web_url": "wss://st2.rstgames.com/wsD",
-      "weight": 1.0
+      "weight": 0.0
     },
     "uF": {
       "name": {
@@ -270,7 +270,7 @@
       "huawei": 1234,
       "rustore": 1234,
       "web_url": "wss://st2.rstgames.com/wsD",
-      "weight": 1.0
+      "weight": 0.0
     }
   },
   "web_auth":"https://durak.rstgames.com/auth",
