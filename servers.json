@@ -247,11 +247,11 @@
         "en": "https://raw.githubusercontent.com/ylitkayg/durak_server/main/icon.png",
         "ru": "https://raw.githubusercontent.com/ylitkayg/durak_server/main/icon.png"
       },
-      "host": "95.217.104.58",
-      "port": 10783,
-      "android": 10783,
-      "huawei": 10783,
-      "rustore": 10783,
+      "host": "194.147.78.117",
+      "port": 10772,
+      "android": 10772,
+      "huawei": 10772,
+      "rustore": 10772,
       "web_url": "wss://st2.rstgames.com/wsD",
       "weight": 0.0
     },
