@@ -1,0 +1,404 @@
+{
+  "user": {
+    "u1": {
+      "name": {
+        "en": "Sapphire",
+        "ru": "Сапфир"
+      },
+      "image": {
+        "en": "http://static.rstpoker.com/poker/public/serverimages/s_u3en.png?2",
+        "ru": "http://static.rstpoker.com/poker/public/serverimages/s_u3ru.png?2"
+      },
+      "host": "49.13.152.244",
+      "port": 10771,
+      "android": 10771,
+      "huawei": 10771,
+      "weight": 1.0
+    }
+  },
+  "shuffle_android":11,
+  "shuffle_ios": 11,
+  "shuffle_huawei": 11,
+  "avatar_size": 200,
+  "chat_img_size": 1024,
+  "help": {
+    "android": {
+      "en": "http://static.rstpoker.com/poker/public/android/en/help.html",
+      "ru": "http://static.rstpoker.com/poker/public/android/ru/help.html"
+    },
+    "huawei": {
+      "en": "http://static.rstgames.com/poker/public/huawei/en/help.html",
+      "ru": "http://static.rstgames.com/poker/public/huawei/ru/help.html"
+    },
+    "ios": {
+      "en": "http://static.rstpoker.com/poker/public/en/help.html",
+      "ru": "http://static.rstpoker.com/poker/public/ru/help.html"
+    }
+  },
+  "tos": {
+    "android": {
+      "en": "http://static.rstpoker.com/poker/public/android/en/tos.html",
+      "ru": "http://static.rstpoker.com/poker/public/android/ru/tos.html"
+    },
+    "huawei": {
+      "en": "http://static.rstgames.com/poker/public/huawei/en/tos.html",
+      "ru": "http://static.rstgames.com/poker/public/huawei/ru/tos.html"
+    },
+    "ios": {
+      "en": "http://static.rstpoker.com/poker/public/en/tos.html",
+      "ru": "http://static.rstpoker.com/poker/public/ru/tos.html"
+    }
+  },
+  "news": {
+    "android": {
+      "en": "http://static.rstpoker.com/poker/public/android/en/news.html",
+      "ru": "http://static.rstpoker.com/poker/public/android/ru/news.html"
+    },
+    "huawei": {
+      "en": "http://static.rstgames.com/poker/public/huawei/en/news.html",
+      "ru": "http://static.rstgames.com/poker/public/huawei/ru/news.html"
+    },
+    "ios": {
+      "en": "http://static.rstpoker.com/poker/public/en/news.html",
+      "ru": "http://static.rstpoker.com/poker/public/ru/news.html"
+    }
+  },
+  "share": {
+    "android": {
+      "en": "http://rstpoker.com/android/en/index.html",
+      "ru": "http://rstpoker.com/android/ru/index.html"
+    },
+    "huawei": {
+      "en": "http://rstpoker.com/huawei/en/index.html",
+      "ru": "http://rstpoker.com/huawei/ru/index.html"
+    },
+    "ios": {
+      "en": "http://rstpoker.com/en/index.html",
+      "ru": "http://rstpoker.com/ru/index.html"
+    }
+  },
+  "flags": {
+    "android": {
+      "en": "http://static.rstpoker.com/poker/public/android/en/en.png",
+      "ru": "http://static.rstpoker.com/poker/public/android/ru/ru.png"
+    },
+    "huawei": {
+      "en": "http://static.rstpoker.com/poker/public/android/en/en.png",
+      "ru": "http://static.rstpoker.com/poker/public/android/ru/ru.png"
+    },
+    "ios": {
+      "en": "http://static.rstpoker.com/poker/public/en/en.png",
+      "ru": "http://static.rstpoker.com/poker/public/ru/ru.png"
+    }
+  },
+  "assets_url": "http://static.rstpoker.com/poker/assets/",
+  "assets_url_android": "http://static.rstpoker.com/poker/assets/",
+  "assets_count": 0,
+  "assets": {
+    "smile_classic":    2,
+    "smile_g_blond":    2,
+    "smile_g_dark":     2,
+    "smile_m_blond":    2,
+    "smile_m_dark":     2,
+    "smile_cat":        2,
+    "smile_panda":      2,
+    "smile_raccoon":    2,
+    "smile_m_long":     2,
+    "smile_g_glam":     2,
+    "smile_g_veil":     2,
+    "shirt_classic":    2,
+    "shirt_gzhel":      2,
+    "shirt_greenblue":  2,
+    "shirt_redblue":    2,
+    "shirt_khokhloma":  2,
+    "shirt_buta":       2,
+    "frame_classic":    2,
+    "frame_chain":      2,
+    "frame_flower":     2,
+    "frame_leafs":      2,
+    "frame_nimb":       2,
+    "frame_heart":      2,
+    "frame_heartchain": 2,
+    "frame_stars":      2,
+    "smile_suntan":     2,
+    "shirt_gold":       2,
+    "shirt_wolf":       2,
+    "shirt_spider":     2,
+    "smile_pumkin":     2,
+    "smile_santa":      2,
+    "smile_sun":        2,
+    "smile_spring":     2
+  },
+
+  "achieves_url": "http://static.rstpoker.com/poker/achieves/",
+  "achieves_url_android": "http://static.rstpoker.com/poker/achieves/",
+  "achieves_count": 50,
+  "achieves": {
+    "no_achieve" :      4,
+    "win_pts_100" :     4,
+    "win_pts_1k" :      4,
+    "win_pts_10k" :     4,
+    "win_pts_100k" :    4,
+    "win_pts_1m" :      4,
+    "end_22" :          4,
+    "end_777" :         4,
+    "end_aaaa" :        4,
+    "friend_1" :        4,
+    "friend_10" :       4,
+    "friend_20" :       4,
+    "points_10k" :      4,
+    "points_100k" :     4,
+    "points_1m" :       4,
+    "points_10m" :      4,
+    "streak_3" :        4,
+    "streak_5" :        4,
+    "streak_10" :       4,
+    "streak_20" :       4,
+    "streak_50" :       4,
+    "streak_100" :      4,
+    "wins_100" :        4,
+    "wins_250" :        4,
+    "wins_500" :        4,
+    "wins_1000" :       4,
+    "wins_2500" :       4,
+    "wins_5000" :       4,
+    "wins_10000" :      4,
+    "wins_25000" :      4,
+    "wins_50000" :      4,
+    "wins_100000" :     4,
+    "rating_160k" :     4,
+    "rating_320k" :     4,
+    "rating_480k" :     4,
+    "rating_640k" :     4,
+    "rating_800k" :     4,
+    "rating_960k" :     4,
+    "combo_pair" :      4,
+    "combo_two_pairs" : 4,
+    "combo_three" :     4,
+    "combo_straight" :  4,
+    "combo_flush" :     4,
+    "combo_full_house" : 4,
+    "combo_four" :      4,
+    "combo_straight_flush" : 4,
+    "combo_royal" :     4,
+    "share" :           4,
+    "medal_bronze" :           4,
+    "medal_silver" :           4,
+    "medal_gold" :           4
+
+  },
+  "games": {
+    "status_android": true,
+    "status_ios": true,
+    "status_huawei": true,
+    "shuffle_android":15,
+    "shuffle_huawei":14,
+    "shuffle_ios": 15,
+    "apps": {
+      "loto": {
+        "sort": 90,
+        "app": {
+          "ios": "581739568",
+          "android" : "com.rstgames.loto",
+          "huawei" : "105840427"
+        },
+        "name": {
+          "ru": "Лото Онлайн",
+          "en": "Loto Online"
+        },
+        "icon": {
+          "ios": "http://static.rstgames.com/loto/public/image/loto_160.png",
+          "android": "http://static.rstgames.com/loto/public/image/loto_160.png",
+          "huawei": "http://static.rstgames.com/loto/public/image/loto_160.png"
+        }
+      },
+      "durak" : {
+        "sort": 80,
+        "app": {
+          "ios": "891825663",
+          "android" : "com.rstgames.durak",
+          "huawei" : "104386641"
+        },
+        "name": {
+          "ru": "Дурак Онлайн",
+          "en": "Durak Online"
+        },
+        "icon": {
+          "ios": "http://static.rstgames.com/durak/public/image/durak_160.png",
+          "android": "http://static.rstgames.com/durak/public/image/durak_160.png",
+          "huawei": "http://static.rstgames.com/durak/public/image/durak_160.png"
+        }
+      },
+      "backgammon" : {
+        "sort": 70,
+        "app": {
+          "ios": "1144538463",
+          "android" : "com.rstgames.backgammon",
+          "huawei" : "105685439"
+        },
+        "name": {
+          "ru": "Нарды Онлайн",
+          "en": "Backgammon Online"
+        },
+        "icon": {
+          "ios": "http://static.rstgames.com/bg/public/image/bg_160.png",
+          "android": "http://static.rstgames.com/bg/public/image/bg_160.png",
+          "huawei": "http://static.rstgames.com/bg/public/image/bg_160.png"
+        }
+      },
+      "game101" : {
+        "sort": 60,
+        "app": {
+          "ios": "1339073937",
+          "android" : "com.rstgames.game101",
+          "huawei" : "105648027"
+        },
+        "name": {
+          "ru": "Сто Одно Онлайн",
+          "en": "Mau Mau Online"
+        },
+        "icon": {
+          "ios": "http://static.rstgames.com/101/public/image/101_160.png",
+          "android": "http://static.rstgames.com/101/public/image/101_160.png",
+          "huawei": "http://static.rstgames.com/101/public/image/101_160.png"
+        }
+      },
+      "roul" : {
+        "sort": 50,
+        "app": {
+          "ios": "1374767832",
+          "android" : "com.rstgames.roul",
+          "huawei" : "105671057"
+        },
+        "name": {
+          "ru": "Рулетка Онлайн",
+          "en": "Roulette Online"
+        },
+        "icon": {
+          "ios": "http://static.rstgames.com/roul/public/image/roul_160.png",
+          "android": "http://static.rstgames.com/roul/public/image/roul_160.png",
+          "huawei": "http://static.rstgames.com/roul/public/image/roul_160.png"
+        }
+      },
+      "checkers" : {
+        "sort": 40,
+        "app": {
+          "ios": "1572795201",
+          "android" : "com.rstgames.checkers",
+          "huawei" : "105685971"
+        },
+        "name": {
+          "ru": "Шашки Онлайн",
+          "en": "Checkers Online"
+        },
+        "icon": {
+          "ios": "http://static.rstgames.com/che/public/image/che_160.png",
+          "android": "http://static.rstgames.com/che/public/image/che_160.png",
+          "huawei": "http://static.rstgames.com/che/public/image/che_160.png"
+        }
+      },
+      "domino" : {
+        "sort": 30,
+        "app": {
+          "ios": "1526121198",
+          "android" : "com.rstgames.domino",
+          "huawei" : "105739479"
+        },
+        "name": {
+          "ru": "Домино Онлайн",
+          "en": "Dominoes Online"
+        },
+        "icon": {
+          "ios": "https://domino.rstgames.com/s/client/domino_160.png",
+          "android": "https://domino.rstgames.com/s/client/domino_160.png",
+          "huawei": "https://domino.rstgames.com/s/client/domino_160.png"
+        }
+      },
+      "wordboom" : {
+        "sort": 20,
+        "app": {
+          "ios": "1572795557",
+          "android" : "com.rstgames.wordboom",
+          "huawei" : "105739531"
+        },
+        "name": {
+          "ru": "Словобум Онлайн",
+          "en": "Wordboom Online"
+        },
+        "icon": {
+          "ios": "https://wordboom.rstgames.com/s/client/wordboom_160.png",
+          "android": "https://wordboom.rstgames.com/s/client/wordboom_160.png",
+          "huawei": "https://wordboom.rstgames.com/s/client/wordboom_160.png"
+        }
+      },
+      "m3" : {
+        "sort": 10,
+        "app": {
+          "ios": "1631810188",
+          "android" : "com.rstgames.m3",
+          "huawei" : "106432241"
+        },
+        "name": {
+          "ru": "Три в ряд Онлайн",
+          "en": "Match 3 Online"
+        },
+        "icon": {
+          "ios": "https://m3.rstgames.com/s/client/m3_160.png",
+          "android": "https://m3.rstgames.com/s/client/m3_160.png",
+          "huawei": "https://m3.rstgames.com/s/client/m3_160.png"
+        }
+      },
+      "hg" : {
+        "sort": 5,
+        "app": {
+          "ios": "1642705298",
+          "android" : "games.magicboard.hg",
+          "huawei" : "106987185"
+        },
+        "name": {
+          "ru": "Герои Гильдгаарда",
+          "en": "Heroes of Gildgaard"
+        },
+        "icon": {
+          "ios": "https://hg.magicboard.games/s/client/hg_160.png",
+          "android": "https://hg.magicboard.games/s/client/hg_160.png",
+          "huawei": "https://hg.magicboard.games/s/client/hg_160.png"
+        }
+      },
+      "bluff" : {
+        "sort": 3,
+        "app": {
+          "ios": "6447741808",
+          "android" : "games.magicboard.bluff",
+          "huawei" : "108059161"
+        },
+        "name": {
+          "ru": "Блеф Онлайн",
+          "en": "Bluff Online"
+        },
+        "icon": {
+          "ios": "https://bluff.magicboard.games/s/client/bluff_160.png",
+          "android": "https://bluff.magicboard.games/s/client/bluff_160.png",
+          "huawei": "https://bluff.magicboard.games/s/client/bluff_160.png"
+        }
+      },
+      "sb" : {
+        "sort": 2,
+        "app": {
+          "ios": "6466614302",
+          "android" : "games.magicboard.sb",
+          "huawei" : "109196051"
+        },
+        "name": {
+          "ru": "Морской Бой",
+          "en": "Sea Battle"
+        },
+        "icon": {
+          "ios": "https://sb.magicboard.games/s/client/sb_160.png",
+          "android": "https://sb.magicboard.games/s/client/sb_160.png",
+          "huawei": "https://sb.magicboard.games/s/client/sb_160.png"
+        }
+      }
+    }
+  }
+}
